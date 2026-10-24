@@ -1,0 +1,14 @@
+streamlit>=1.37
+numpy<2.0
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+joblib>=1.3
+python-docx>=1.1
+openpyxl>=3.1
+Pillow>=10.0
+# كاميرا مدى الحركة والمدرّب المباشر (اختياري؛ إن فشل تثبيتها يعمل بقية التطبيق)
+mediapipe==0.10.14
+opencv-python-headless==4.9.0.80
+streamlit-webrtc>=0.47
+av>=11.0

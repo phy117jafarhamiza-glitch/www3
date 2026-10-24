@@ -1,0 +1,11 @@
+{
+  "source": "synthetic",
+  "n_windows": 756,
+  "trained_at": "2026-10-07T20:01:55",
+  "final_loss": 6.461377263822948e-05,
+  "class_counts": [
+    252,
+    252,
+    252
+  ]
+}
